@@ -20,7 +20,7 @@ ECG signals are susceptible to high-frequency noise, which can interfere with ac
 
 ## Block Diagram  
 
-![Block Diagram](https://drive.google.com/file/d/1RIgyKMswq4c7ORh3iwid12HYv6QYo6Av/view?usp=drive_link)  
+![Block Diagram](fir.jpg)  
 
 The block diagram illustrates the data flow: input buffering, coefficient multiplication, and output summation.
 
@@ -28,7 +28,7 @@ The block diagram illustrates the data flow: input buffering, coefficient multip
 
 ## Simulation Results  
 
-![Simulation Results](https://drive.google.com/uc?id=YOUR_SIMULATION_IMAGE_FILE_ID)  
+![Simulation Results](https://github.com/anuragvisioner/VHDL-Low-Pass-FIR-Filter-for-ECG-Denoising/blob/main/Screenshot%20(296).png)  
 
 The graph shows the performance of the filter in denoising a noisy ECG signal.
 
